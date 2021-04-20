@@ -1,2 +1,2 @@
-# JSXcomponentupdated
+# ReactComponent
 Created with CodeSandbox
